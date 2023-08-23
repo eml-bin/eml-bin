@@ -1,6 +1,6 @@
-| 📜 <code>Github Records</code> | 🗣️ <code>Codemunity</code> |
-| ----- | ----- |
-| ![EML-CodeLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eml-bin&layout=compact&theme=merko) | [![EML-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4010240&theme=dark)](https://stackoverflow.com/users/4010240/eduardo-ml) |
+| 👨‍💻 <code>About Me</code> | 📜 <code>Github Records</code> | 🗣️ <code>Codemunity</code> |
+| :- | :- | :- |
+| <div class="card"> <h1 class="name">Eduardo Muñoz López</h1> <p class="bio">Fullstack Engineer</p><p>Contact me at: edu@eml.run</p></div> | ![EML-CodeLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eml-bin&layout=compact&theme=merko) | [![EML-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4010240&theme=dark)](https://stackoverflow.com/users/4010240/eduardo-ml) |
 
 | ⌨️ <code>Tech Stack</code> |
 | :- |
