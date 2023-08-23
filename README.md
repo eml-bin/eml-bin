@@ -20,54 +20,6 @@
             </a>
         </p>
     </div>
-    <div>
-        <sub>DEVOPS</sub>
-        <p align="left">
-            <a href="#">
-                <img src="https://skillicons.dev/icons?i=docker,git,githubactions,gradle,nginx" />
-            </a>
-        </p>
-    </div>
-    <div>
-        <sub>CLOUD</sub>
-        <p align="left">
-            <a href="#">
-                <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
-            </a>
-        </p>
-    </div>
-    <div>
-        <sub>DATABASES</sub>
-        <p align="left">
-            <a href="#">
-                <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
-            </a>
-        </p>
-    </div>
-    <div>
-        <sub>SCRIPTING</sub>
-        <p align="left">
-            <a href="#">
-                <img src="https://skillicons.dev/icons?i=powershell,bash,sqlite" />
-            </a>
-        </p>
-    </div>
-    <div>
-        <sub>FRAMEWORKS</sub>
-        <p align="left">
-            <a href="#">
-                <img src="https://skillicons.dev/icons?i=flask,django,spring" />
-            </a>
-        </p>
-    </div>
-    <div>
-        <sub>OS</sub>
-        <p align="left">
-            <a href="#">
-                <img src="https://skillicons.dev/icons?i=linux,raspberrypi" />
-            </a>
-        </p>
-    </div>
 </div> |
 
 <!--
