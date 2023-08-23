@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=theme)
+
 <!--
 **eml-bin/eml-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
