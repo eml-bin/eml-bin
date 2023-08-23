@@ -20,6 +20,55 @@
             </a>
         </p>
     </div>
+    <div>
+        <sub>DEVOPS</sub>
+        <p align="left">
+            <a href="#">
+                <img src="https://skillicons.dev/icons?i=docker,git,githubactions,gradle,nginx" />
+            </a>
+        </p>
+    </div>
+    <div>
+        <sub>CLOUD</sub>
+        <p align="left">
+            <a href="#">
+                <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
+            </a>
+        </p>
+    </div>
+    <div>
+        <sub>DATABASES</sub>
+        <p align="left">
+            <a href="#">
+                <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+            </a>
+        </p>
+    </div>
+    <div>
+        <sub>SCRIPTING</sub>
+        <p align="left">
+            <a href="#">
+                <img src="https://skillicons.dev/icons?i=powershell,bash,sqlite" />
+            </a>
+        </p>
+    </div>
+    <div>
+        <sub>FRAMEWORKS</sub>
+        <p align="left">
+            <a href="#">
+                <img src="https://skillicons.dev/icons?i=flask,django,spring" />
+            </a>
+        </p>
+    </div>
+    <div>
+        <sub>OS</sub>
+        <p align="left">
+            <a href="#">
+                <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
+                <img src="https://skillicons.dev/icons?i=linux,raspberrypi" />
+            </a>
+        </p>
+    </div>
 </div> |
 
 <!--
