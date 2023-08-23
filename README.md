@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eml-bin&layout=compact&theme=merko)
+| ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eml-bin&layout=compact&theme=merko) | [![EML StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4010240)](https://stackoverflow.com/users/4010240/eduardo-ml) | 
 
 <!--
 **eml-bin/eml-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
