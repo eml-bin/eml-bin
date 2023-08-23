@@ -1,6 +1,6 @@
 | 👨‍💻 <code>About Me</code> | 📜 <code>Github Records</code> | 🗣️ <code>Codemunity</code> |
 | :- | :- | :- |
-| <div> <p>Fullstack Engineer</p><p>Contact me at: edu@eml.run</p><picture> <img src="https://s3.us-east-2.amazonaws.com/eml.run/digital_signature.png" alt="" width="120" height="80"> </picture></div> | ![EML-CodeLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eml-bin&layout=compact&theme=merko) | [![EML-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4010240&theme=dark)](https://stackoverflow.com/users/4010240/eduardo-ml) |
+| <div> <p>🔴 Fullstack Engineer</p><p>🟡 edu@eml.run</p><p>🟢 +52 461-227-5316</p></div> | ![EML-CodeLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eml-bin&layout=compact&theme=merko) | [![EML-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4010240&theme=dark)](https://stackoverflow.com/users/4010240/eduardo-ml) |
 
 | ⌨️ <code>Tech Stack</code> |
 | :- |
